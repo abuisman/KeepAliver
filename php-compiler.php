@@ -1,4 +1,6 @@
 <?php
+
+// Set the bookmarklet variable.
 $bookmarklet = <<<JS
 var s=document.createElement('script');
     s.setAttribute('src','http://jquery.com/src/jquery-latest.js');
